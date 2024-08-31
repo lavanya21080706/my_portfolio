@@ -575,9 +575,10 @@ html {
 }
 
 .myImg{
-    width:450px;
+    width:400px;
     height:450px;
     border-radius: 20px;
+    /* margin-left: 100px; */
 }
 
 .list-style-two li:before {
@@ -1363,8 +1364,8 @@ html {
 
 .glitch img {
     position: relative;
-    height:450px;
-    width:400px;
+    height:400px;
+    width:350px;
     z-index: 1;
     display: block;
     border-radius: 40px;
@@ -1386,7 +1387,7 @@ html {
     right: 0;
     top: 0;
     bottom: 0;
-    background-image: url(../../assets/images/about/profile_image.jpeg);
+    background-image: url(../../assets/images/about/passport.jpeg);
     background-repeat: no-repeat;
     background-position: 0 0;
 }
